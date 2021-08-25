@@ -1,2 +1,2 @@
 # CNN_for_CIFAR-10
-it gave a 89% accuracy 
+it gave a 91.48% accuracy 
